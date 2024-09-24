@@ -632,12 +632,14 @@
 		}],
 		"lives":[
 			{
-				"name": "Gathert",
+				"name": "王二小放牛娃推荐使用",
 				"type": 0,
-				"url": "https://tv.iill.top/m3u/Gathert",
+				"url": "https://tv.iill.top/m3u/Gather",
+				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
+        			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+         			"logo": "https://epg.112114.xyz/logo/{name}.png"
+
 			},
 			{
 				"name": "zouming.ipv6",
